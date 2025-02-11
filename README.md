@@ -2,7 +2,7 @@
 **Note:** This project was done as a requirement for the course ENME691- Industrial AI at University of Maryland,College Park and was done in collaboration with Murilo Nicoluzzi (murinico@umd.edu) and Aniket Bharamgonda (abharamg@umd.edu). The data for this project was provided by the Industrial AI Center (iaiCenter) at University of Maryland, College Park. Contact: contact@iaicenter.com
 
 ## Project Description
-**Rotor Bearing Health Monitoring:** This project implements a machine learning system to diagnose imbalance faults in rotor-bearing systems using vibration data analysis. The system processes accelerometer data from three operational conditions:
+**Rotor Bearing Health Monitoring:** This project implements a machine learning system (logistic regression) to diagnose imbalance faults in rotor-bearing systems using vibration data analysis. The system processes accelerometer data from three operational conditions:
 
 * Healthy: No screws attached to rotating disk
 * Faulty (Imbalance 2): Two screws inducing imbalance
